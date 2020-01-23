@@ -1,0 +1,3 @@
+EXERCISE SPECIFICATIONS (ITALIAN)
+
+riprendendo il progetto iniziato questa mattina (o iniziando un progetto vuoto se non l'avete fatto), installate il necessario per la mail + autenticazione. Dopo aver inserito migration+model+factory+seeder di una entita' (eventualmente copiando da uno dei vecchi progetti), presentare la lista di entita' pubblica, mentre la show di un elemento + delete solo se loggati. Alla delete inviare anche una mail attraverso il servizio mailtrap visto questa mattina
