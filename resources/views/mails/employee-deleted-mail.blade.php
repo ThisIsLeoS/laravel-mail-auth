@@ -1,0 +1,1 @@
+The employee with id {{$id}} was deleted from the database
